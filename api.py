@@ -21,8 +21,3 @@ class Api:
 
         wp.html = json.dumps(response)
         return wp
-
-
-if __name__ == "__main__":
-    jp.Route("/api", Api.serve)
-    jp.justpy()
