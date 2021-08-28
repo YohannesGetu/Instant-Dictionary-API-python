@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d85dddc2-989d-47fd-94c6-4a533f486e4c" name="Default Changelist" comment="implemented the api">
-      <change afterPath="$PROJECT_DIR$/documentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d85dddc2-989d-47fd-94c6-4a533f486e4c" name="Default Changelist" comment="added a documentation to api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630066582854</updated>
       <workItem from="1630066587152" duration="2299000" />
-      <workItem from="1630071669175" duration="468000" />
+      <workItem from="1630071669175" duration="1802000" />
     </task>
     <task id="LOCAL-00001" summary="added the initial files">
       <created>1630067420989</created>
@@ -64,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630068244149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added a documentation to api">
+      <created>1630072250366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630072250366</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +90,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added the initial files" />
     <MESSAGE value="implemented the api" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented the api" />
+    <MESSAGE value="added a documentation to api" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a documentation to api" />
   </component>
 </project>
